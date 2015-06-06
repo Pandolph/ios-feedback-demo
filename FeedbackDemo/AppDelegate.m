@@ -10,8 +10,8 @@
 #import <AVOSCloud/AVOSCloud.h>
 
 #warning 请替换成自己的id和key
-#define AVOSCloudAppID  @"s0g5kxj7ajtf6n2wt8fqty18p25gmvgrh7b430iuugsde212"
-#define AVOSCloudAppKey @"hc7jpfubg5vaurjlezxhfr1t9pqb9w8tfw0puz1g83vl9nwz"
+#define AVOSCloudAppID  @"9dli5b79onogi6ue80xvjr7fjk9hcjh7hv2wq6gkvola1mpl"
+#define AVOSCloudAppKey @"m98hxizt1cycyybzf1clfyvyodb6qa95k7rok5jy5svh1nx5"
 
 @implementation AppDelegate
 
